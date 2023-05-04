@@ -11,5 +11,3 @@ setup(
     ],
     python_requires='>=3.6'
 )
-
-# twine register --repository-url https://github.com/Rjchauhan18/google-gallary.git --username Rjchauhan18 --password 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
